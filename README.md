@@ -214,3 +214,6 @@ Value is 5
 f.foobar(7) = 12
 x = 7
 ```
+
+## jupyter notebook 문서
+* https://nbviewer.jupyter.org/github/SDRLurker/jna_demo/blob/master/jna_demo.ipynb
